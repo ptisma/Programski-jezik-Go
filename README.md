@@ -1,1 +1,3 @@
 # Programski-jezik-Go
+
+Vještina
